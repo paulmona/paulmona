@@ -7,9 +7,9 @@ product company in Ontario.
 Most of what's here started as something I wanted for myself.
 
 **[hive](https://github.com/paulmona/hive)** is the big one. Four Claude Code
-agents run side by side on one VM, each with its own job. One handles my
-calendar and morning briefing, one writes code with me, one looks after
-Viewbridge email, and one does research. I can reach them by voice, from the car
+agents run side by side on one VM, each with its own job. Sunday handles my
+calendar and morning briefing, Friday writes code with me, Sinclair looks after
+Viewbridge email, and Oddjob does research. I can reach them by voice, from the car
 or from my phone, and they remember the conversation across all of them. The
 repo is the actual config they run on, cleaned up for public.
 
@@ -17,8 +17,8 @@ repo is the actual config they run on, cleaned up for public.
 is the piece that lets Home Assistant voice talk to those agents.
 
 **[GarminConnectMCP](https://github.com/paulmona/GarminConnectMCP)** pulls my
-workouts, sleep and readiness out of Garmin Connect so one of those agents can
-coach me for Hyrox races.
+workouts, sleep and readiness out of Garmin Connect so Sunday can coach me for
+Hyrox races.
 
 **PromptLineAI** ([backend](https://github.com/paulmona/PromptLineAI-BackendAPI),
 [extension](https://github.com/paulmona/PromptLineAI-extension)) is a proof of
