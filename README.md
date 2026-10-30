@@ -16,9 +16,9 @@ repo is the actual config they run on, cleaned up for public.
 **[ha-claude-integration](https://github.com/paulmona/ha-claude-integration)**
 is the piece that lets Home Assistant voice talk to those agents.
 
-**[GarminConnectMCP](https://github.com/paulmona/GarminConnectMCP)** gives
-Claude access to my Garmin data, so it can plan training around how I actually
-slept.
+**[GarminConnectMCP](https://github.com/paulmona/GarminConnectMCP)** pulls my
+workouts, sleep and readiness out of Garmin Connect so one of those agents can
+coach me for Hyrox races.
 
 **PromptLineAI** ([backend](https://github.com/paulmona/PromptLineAI-BackendAPI),
 [extension](https://github.com/paulmona/PromptLineAI-extension)) is a proof of
