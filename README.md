@@ -28,8 +28,9 @@ tools without recording what they type.
 **[pm](https://github.com/paulmona/pm)** is a Claude Code plugin I use to take
 an idea through to a PRD, a TRD and a GitHub project.
 
-**[little-library](https://github.com/paulmona/little-library)** catalogues the
-little free library at the end of my driveway.
+**[little-library](https://github.com/paulmona/little-library)** started as a
+proof of concept my sister vibe coded for her little free library. I picked it
+up and made it into something she could actually use.
 
 ## What I'm playing with now
 
