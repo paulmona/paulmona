@@ -7,12 +7,9 @@ product company in Ontario.
 Most of what's here started as something I wanted for myself.
 
 **[hive](https://github.com/paulmona/hive)** is the big one. Currently four custom Claude Code
-agents run side by side on one VM, each with its own job. Sunday is the Chief of Staff, it handles my
-calendar and morning briefing and assigning work to other agents over MQTT, 
-Friday writes code with me, Sinclair looks after Viewbridge email and calendar, 
-and Oddjob automates browser logins. I can reach Sunday by voice in my office or around the house, 
-SMS, from the car or from my phone (Custom Android Assistant, via discord or Claude mobile app). 
-Each agent has a custom Markdown based emory, so they remember the conversation across all of them. 
+agents run side by side on one VM, each with its own job. Sunday is the Chief of Staff, it handles my life from 
+my calendar, to my training (Hyrox), my diet and morning briefing and assigning work to other agents over MQTT, 
+Friday writes code with me, Sinclair looks after Viewbridge email and calendar, and Oddjob automates browser logins with a custom integration to 1Password.  I can reach Sunday by voice in my office or around the house, SMS, from the car or from my phone (Custom Android Assistant, via discord or Claude mobile app). Each agent has a custom Markdown based emory, so they remember the conversation across all of them. 
 The repo is the actual config they run on, cleaned up for public.
 
 **[ha-claude-integration](https://github.com/paulmona/ha-claude-integration)**
